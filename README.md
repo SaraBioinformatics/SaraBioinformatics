@@ -1,3 +1,4 @@
+![logo](https://github.com/SaraBioinformatics/SaraBioinformatics/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Sarita Maurya</h1>
 <h3 align="center">A passionate frontend Bioinformaticians & Computational Biology from India</h3>
 
